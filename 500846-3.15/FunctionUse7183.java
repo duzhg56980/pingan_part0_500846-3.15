@@ -1,0 +1,6 @@
+import org.apache.poi.hssf.util.HSSFColor.ORCHID;
+public class FunctionUse7183 {
+public void funcUse() {
+ORCHID orchid = new ORCHID();
+}
+}

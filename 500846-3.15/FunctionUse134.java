@@ -1,0 +1,7 @@
+import org.apache.poi.ddf.EscherBitmapBlip;
+public class FunctionUse134 {
+public void funcUse() {
+EscherBitmapBlip escherbitmapblip = new EscherBitmapBlip();
+escherbitmapblip.fillFields(null,null,null);
+}
+}

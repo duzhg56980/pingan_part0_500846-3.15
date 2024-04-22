@@ -1,0 +1,6 @@
+import org.apache.poi.ss.formula.ptg.IntersectionPtg;
+public class FunctionUse11936 {
+public void funcUse() {
+IntersectionPtg intersectionptg = new IntersectionPtg();
+}
+}

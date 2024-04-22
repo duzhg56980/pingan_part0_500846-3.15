@@ -1,0 +1,7 @@
+import org.apache.poi.hssf.record.HeaderFooterRecord;
+public class FunctionUse2687 {
+public void funcUse() {
+HeaderFooterRecord headerfooterrecord = new HeaderFooterRecord();
+headerfooterrecord.clone();
+}
+}

@@ -1,0 +1,7 @@
+import org.apache.poi.sl.draw.binding.CTPositiveFixedPercentage;
+public class FunctionUse8985 {
+public void funcUse() {
+CTPositiveFixedPercentage ctpositivefixedpercentage = new CTPositiveFixedPercentage();
+ctpositivefixedpercentage.isSetVal();
+}
+}

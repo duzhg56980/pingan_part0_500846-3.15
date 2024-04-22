@@ -1,0 +1,6 @@
+import org.apache.poi.sl.draw.geom.Formula.15;
+public class FunctionUse9462 {
+public void funcUse() {
+15 15 = new 15();
+}
+}

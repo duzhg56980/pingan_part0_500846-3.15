@@ -1,0 +1,7 @@
+import org.apache.poi.util.DefaultTempFileCreationStrategy;
+public class FunctionUse13743 {
+public void funcUse() {
+DefaultTempFileCreationStrategy defaulttempfilecreationstrategy = new DefaultTempFileCreationStrategy();
+defaulttempfilecreationstrategy.createTempDirectory(null);
+}
+}

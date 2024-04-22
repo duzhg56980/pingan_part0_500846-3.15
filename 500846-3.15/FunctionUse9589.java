@@ -1,0 +1,6 @@
+import org.apache.poi.sl.usermodel.AutoNumberingScheme;
+public class FunctionUse9589 {
+public void funcUse() {
+AutoNumberingScheme autonumberingscheme = new AutoNumberingScheme();
+}
+}

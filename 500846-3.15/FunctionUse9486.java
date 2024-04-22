@@ -1,0 +1,6 @@
+import org.apache.poi.sl.draw.geom.Formula.27;
+public class FunctionUse9486 {
+public void funcUse() {
+27 27 = new 27();
+}
+}

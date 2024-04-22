@@ -1,0 +1,7 @@
+import org.apache.poi.poifs.filesystem.POIFSWriterEvent;
+public class FunctionUse8089 {
+public void funcUse() {
+POIFSWriterEvent poifswriterevent = new POIFSWriterEvent();
+poifswriterevent.getStream();
+}
+}
